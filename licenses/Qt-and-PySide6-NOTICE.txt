@@ -1,0 +1,45 @@
+================================================================================
+ QT / PySide6 — COPYRIGHT AND LICENSE NOTICE  ·  AVISO DE COPYRIGHT Y LICENCIA
+================================================================================
+
+-- ENGLISH ---------------------------------------------------------------------
+
+RedNote uses the Qt framework through the PySide6 bindings.
+
+Qt and PySide6 are Copyright (C) The Qt Company Ltd. and the Qt Project
+contributors. RedNote uses them under the terms of the GNU Lesser General
+Public License, version 3 (LGPL-3.0).
+
+The full texts of the applicable licenses are included next to this file:
+  - LGPL-3.0.txt   (GNU Lesser General Public License, version 3)
+  - GPL-3.0.txt    (GNU General Public License, version 3 — referenced by the LGPL)
+
+In accordance with the LGPL, RedNote links these libraries DYNAMICALLY. The
+Qt/PySide6 shared libraries are shipped as separate files inside this
+installation (folder "_internal\PySide6"); you are entitled to replace them
+with a compatible version of the library.
+
+Qt is a trademark of The Qt Company Ltd. RedNote is an independent product and
+is not affiliated with, nor endorsed by, The Qt Company.
+
+-- ESPAÑOL ---------------------------------------------------------------------
+
+RedNote utiliza el framework Qt a traves de los enlaces PySide6.
+
+Qt y PySide6 son Copyright (C) The Qt Company Ltd. y los contribuidores del
+Proyecto Qt. RedNote los usa conforme a la Licencia Publica General Reducida de
+GNU, version 3 (LGPL-3.0).
+
+Los textos completos de las licencias aplicables se incluyen junto a este
+archivo:
+  - LGPL-3.0.txt   (Licencia Publica General Reducida de GNU, version 3)
+  - GPL-3.0.txt    (Licencia Publica General de GNU, version 3 — referida por la LGPL)
+
+Conforme a la LGPL, RedNote enlaza estas librerias de forma DINAMICA. Las
+librerias compartidas de Qt/PySide6 se distribuyen como archivos separados
+dentro de esta instalacion (carpeta "_internal\PySide6"); usted tiene derecho a
+reemplazarlas por una version compatible de la libreria.
+
+Qt es una marca de The Qt Company Ltd. RedNote es un producto independiente y no
+esta afiliado ni respaldado por The Qt Company.
+================================================================================
